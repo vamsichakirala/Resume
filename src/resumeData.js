@@ -13,7 +13,7 @@ let resumeData = {
         {
           "name":"github",
           "url":"https://github.com/vamsichakirala",
-          "className":"fa fa-github"
+          <i class="fa fa-github" aria-hidden="true"></i>
         }
       ],
     "aboutme":"I am currently a pre-final year student at The Vellore Institute of Technology and pursuing my B.Tech in Information Technology. I am currently learning Full Stack Web Development and brushing up my skills Python and Java. I am also aiming to delve into world of Ai and Ml in near future.",
